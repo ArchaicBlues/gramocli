@@ -1,9 +1,11 @@
 # gramocli
 
 A non-interactive, command-line-only derivative of
-[GramoFile](http://gramofile.sourceforge.net/) by J.A. Bezemer — a tool for
-cleaning up (tick/scratch reduction) and track-splitting digitized
-gramophone/vinyl recordings.
+[GramoFile](http://www.opensourcepartners.nl/~costar/gramofile/) by Anne
+Bezemer and Ton Le — a tool for cleaning up (tick/scratch reduction) and
+track-splitting digitized gramophone/vinyl recordings. (The project's old
+SourceForge page is gone; this is GramoFile's actual original homepage, per
+Debian's package metadata.)
 
 GramoFile's original ncurses-based interactive UI has been removed; the same
 signal-processing filters and track-splitting logic are instead driven
