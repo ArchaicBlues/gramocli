@@ -41,7 +41,7 @@ Requirements for <infile.wav>:
 
 ## License
 
-GPL-2.0-or-later, same as the original GramoFile — see [LICENSE](LICENSE).
+GPL-2.0-or-later, same as the original GramoFile — see [COPYING](COPYING).
 Original copyright notices (`Copyright (C) 1998 J.A. Bezemer`) are preserved
 in every source file carried over from GramoFile.
 
