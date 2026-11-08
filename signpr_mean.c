@@ -1,6 +1,8 @@
 /* Simple Mean Filter
 
  * Copyright (C) 1998 J.A. Bezemer
+ * Modifications Copyright (C) 2024 ArchaicBlues: removed interactive
+ * ncurses UI, added non-interactive CLI argument interface (gramocli).
  *
  * Licensed under the terms of the GNU General Public License.
  * ABSOLUTELY NO WARRANTY.

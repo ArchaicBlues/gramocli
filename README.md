@@ -44,3 +44,6 @@ Requirements for <infile.wav>:
 GPL-2.0-or-later, same as the original GramoFile — see [LICENSE](LICENSE).
 Original copyright notices (`Copyright (C) 1998 J.A. Bezemer`) are preserved
 in every source file carried over from GramoFile.
+
+Modifications (removal of the ncurses UI, non-interactive CLI interface):
+Copyright (C) 2024 ArchaicBlues.
